@@ -1,0 +1,5 @@
+rootProject.name = 'project'
+include 'module-Common'
+include 'module-Api'
+include 'module-Batch'
+include 'module-FCM'
